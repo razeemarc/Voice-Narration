@@ -1,0 +1,15 @@
+com.example.voice.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Razeema\.gradle\caches\transforms-3\03ea22731c9d106b9d6317139e3b8c93\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.voice.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Razeema\.gradle\caches\transforms-3\3da52aa732d6f9f9ede0c3d811168a85\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.voice.app-jetified-window-1.0.0-beta04-2 C:\Users\Razeema\.gradle\caches\transforms-3\64aa43c066c2133baa890f7ef0c26a81\transformed\jetified-window-1.0.0-beta04\res
+com.example.voice.app-jetified-core-ktx-1.8.0-3 C:\Users\Razeema\.gradle\caches\transforms-3\6a75afdaccb8d385c0588f327455431c\transformed\jetified-core-ktx-1.8.0\res
+com.example.voice.app-lifecycle-runtime-2.3.1-4 C:\Users\Razeema\.gradle\caches\transforms-3\8b9cbb79a0842339875709730e7c5ec1\transformed\lifecycle-runtime-2.3.1\res
+com.example.voice.app-core-1.8.0-5 C:\Users\Razeema\.gradle\caches\transforms-3\d00522c676b82bea1747f6e761c8ff97\transformed\core-1.8.0\res
+com.example.voice.app-debug-6 C:\Users\Razeema\AndroidStudioProjects\voice\android\app\src\debug\res
+com.example.voice.app-main-7 C:\Users\Razeema\AndroidStudioProjects\voice\android\app\src\main\res
+com.example.voice.app-pngs-8 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\generated\res\pngs\debug
+com.example.voice.app-resValues-9 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\generated\res\resValues\debug
+com.example.voice.app-rs-10 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\generated\res\rs\debug
+com.example.voice.app-mergeDebugResources-11 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.voice.app-mergeDebugResources-12 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.voice.app-merged_res-13 C:\Users\Razeema\AndroidStudioProjects\voice\build\app\intermediates\merged_res\debug
+com.example.voice.app-packaged_res-14 C:\Users\Razeema\AndroidStudioProjects\voice\build\flutter_tts\intermediates\packaged_res\debug
